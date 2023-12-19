@@ -92,3 +92,32 @@ h1{
     color:black;
 
 }
+@media screen and (max-width:600px){
+    h1{
+        color: black;
+        width:400px;
+        line-height: 0px;
+        margin-left:-150px;
+        margin-top:20px
+        
+        
+    }
+
+    .maincluster{
+    
+        margin-left:40px;
+        position:absolute;
+        top:12%;
+        background: #000;
+        width: 320px;
+    }
+
+    .qr{
+        width: 200px;
+        margin-left:-70px;
+        margin-top:-50px
+    }
+  
+
+
+}
